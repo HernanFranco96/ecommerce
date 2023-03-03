@@ -1,7 +1,12 @@
 # ecommerce
 Proyecto final
 
-## Dependencias
+### Ejecución
+cd ecommerce
+npm i
+npm start
+
+### Dependencias
     "@handlebars/allow-prototype-access": "^1.0.5",
     "axios": "^0.27.2",
     "bcrypt": "^5.0.1",
