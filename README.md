@@ -1,12 +1,16 @@
 # ecommerce
 Proyecto final
 
-### Ejecución
+# Instalación
+
+```sh
+git https://github.com/HernanFranco96/ecommerce.git
 cd ecommerce
 npm i
-npm start
+npm run dev
+```
 
-### Dependencias
+# Dependencias
     "@handlebars/allow-prototype-access": "^1.0.5",
     "axios": "^0.27.2",
     "bcrypt": "^5.0.1",
@@ -30,3 +34,10 @@ npm start
     "socket.io": "^4.4.1",
     "twilio": "^3.78.0",
     "winston": "^3.8.0"
+    
+## Sitio
+- https://ecommerce-production-f62b.up.railway.app/login
+
+## License
+
+**Hernán Franco**
